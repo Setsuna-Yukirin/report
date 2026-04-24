@@ -7,7 +7,7 @@
 ```
 hermes-agent/
 ├── README.md                      # 本文件 - 总体架构和导航
-├── memory-system/
+├── hermes-memory/
 │   └── README.md                  # 持久化记忆系统详解
 ├── skills-system/
 │   └── README.md                  # 技能系统详解
