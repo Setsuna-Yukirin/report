@@ -30,3 +30,4 @@ env/
 # Temp files
 *.tmp
 *.bak
+openai-privacy-filter/test_complex.env
